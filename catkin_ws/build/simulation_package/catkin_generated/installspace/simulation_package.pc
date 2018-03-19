@@ -1,0 +1,8 @@
+prefix=/home/redbird/catkin_ws/install
+
+Name: simulation_package
+Description: Description of simulation_package
+Version: 0.0.0
+Cflags: -I/home/redbird/catkin_ws/install/include
+Libs: -L/home/redbird/catkin_ws/install/lib 
+Requires: message_runtime roscpp rospy std_msgs
